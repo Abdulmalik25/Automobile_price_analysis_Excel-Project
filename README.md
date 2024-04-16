@@ -32,6 +32,25 @@ Below is a snippet of the final dashboard in Excel.
 ![5](https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/254a979e-7f48-4192-9ba2-49098fdad940)
 ![auto 2](https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/0d67b18f-d58a-4f15-99da-9df5ceccf3ae)
 
+## Key Insights:
+
+- Car Price and Number of Doors: Luxury cars with fewer doors command higher prices, while mainstream models with four doors are priced more competitively. This trend highlights the association between car type and pricing strategy.
+
+- Fuel Type and Price: Diesel cars tend to have higher price tags compared to their gasoline counterparts. This observation underscores the impact of fuel efficiency and market demand on pricing decisions.
+
+- Mileage and Price: As expected, car prices decrease with mileage, reflecting the trade-off between performance and depreciation. Higher horsepower is often associated with higher prices, further influencing the pricing dynamics based on performance metrics.
+
+- Brand Analysis: Toyota emerges as the dominant brand in the used car market, followed closely by Nissan, known for offering budget-friendly options. This brand preference sheds light on consumer preferences and brand loyalty in the automotive industry.
+
+- Horsepower and Price: The correlation between horsepower and price is evident, with higher horsepower translating to higher price points. This relationship underscores the premium associated with increased performance capabilities.
+
+- Market Trends: Analyzing market trends can reveal valuable insights into consumer behavior and preferences, guiding strategic decisions for pricing and product positioning in the competitive automotive landscape.
+
+- Future Opportunities: Identifying emerging trends such as the growing demand for electric vehicles or the rise of autonomous technology can provide valuable opportunities for innovation and market differentiation in the automotive industry.
+
+
+##  Conclusion
+
 
 
 
