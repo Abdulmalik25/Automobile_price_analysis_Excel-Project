@@ -22,7 +22,7 @@ This stage began with getting to know the dataset and checking for any data qual
 Five pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between car price  and other factors such as Mileage, horse_power, rpm, No-of_engine, No_of_cylinder etc.
 
 ## Below is a snippet of the pivot tables in Excel.
-<img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/ca66871e-d537-4024-85d5-45772e919065" alt="auto pivot" width="500" height="450">
+<img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/ca66871e-d537-4024-85d5-45772e919065" alt="auto pivot" width="700" height="650">
 
 
 
