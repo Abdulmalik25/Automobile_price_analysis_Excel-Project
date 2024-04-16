@@ -29,9 +29,8 @@ Finally, two dashboards was created by inserting and  customizing the pivot char
 For user friendly and interactive experience  3 "Slicers" were added for each charts.
 
 Below is a snippet of the final dashboard in Excel.
-<img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/254a979e-7f48-4192-9ba2-49098fdad940" alt="5" width="1000" height="750">
-
-<img src="https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/0d67b18f-d58a-4f15-99da-9df5ceccf3ae" alt="auto 2" width="1000" height="750">
+![5](https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/254a979e-7f48-4192-9ba2-49098fdad940)
+![auto 2](https://github.com/Abdulmalik25/Automobile_price_analysis_Excel-Project/assets/153974173/0d67b18f-d58a-4f15-99da-9df5ceccf3ae)
 
 
 
